@@ -1,0 +1,3 @@
+--INSERT INTO USER (name, phone, gender) VALUES ('Clark Kent', "65412586", "MALE");
+--INSERT INTO USER (name, phone, gender) VALUES ('Holly Golightly', "99541256", "FEMALE");
+--INSERT INTO USER (name, phone, gender) VALUES ('Mary Magdalene', "744155236", "FEMALE");
